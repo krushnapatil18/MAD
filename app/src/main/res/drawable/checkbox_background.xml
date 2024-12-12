@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Square Background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F5F5F5" /> <!-- Background color -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+
+    <!-- Icon -->
+    <item android:drawable="@drawable/ic_download_icon" /> <!-- Add your icon here -->
+</layer-list>
